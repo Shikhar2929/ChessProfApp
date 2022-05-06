@@ -1,7 +1,7 @@
 # ChessProfApp
 Mobile Chess Teaching Application created in Dart and Flutter 
 
-There are two main parts of the app, the "Learn" section and the "Analyze" section. In the learn feature of the app, users can view readimade lessons tailored to their skill levels. Lessons consist of both variations and comments. To see the next/previous games, the corresponding buttons can be used. 
+There are two main parts of the app, the "Learn" section and the "Analyze" section. In the learn feature of the app, users can view lessons tailored to their skill levels. Lessons consist of both variations and comments. To see the next/previous games, the corresponding buttons can be used. 
 
 
 <img width="366" alt="Screen Shot 2020-11-11 at 11 33 00 PM" src="https://user-images.githubusercontent.com/66570303/167212528-9df19a7c-a351-4fe1-8735-02979106b88e.png">
